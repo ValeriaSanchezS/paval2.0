@@ -28,7 +28,7 @@ $_SESSION['departamento'] = 'NombreDelDepartamento';
             <a class="menu-item" href="menusformularios/menuDireccióndeSalud.php">Dirección de Salud</a>
             <a class="menu-item" href="menusformularios/menuJUDColoniasyAsntamientosH.php">JUD Colonias y Asentamientos Humanos Irregulares</a>
             <a class="menu-item" href="menusformularios/menuSubdirecciónProgramasPrevenciónDelito.php">Subdirección de Programas y Proyectos de Prevención del Delito</a>
-            <a class="menu-item" href="menusformularios/">JUD de Seguridad Ciudadana y de Tránsito</a>
+            <a class="menu-item" href="menusformularios/menuJUDSeguridadCiudadanayTránsito.php">JUD de Seguridad Ciudadana y de Tránsito</a>
             <a class="menu-item" href="menusformularios/menuJUDControlOperativoPolicial.php">JUD de Control Operativo Policial</a>
             <a class="menu-item" href="menusformularios/">JUD de Panteones</a>
             <a class="menu-item" href="menusformularios/menuJUDTianguisyVíaPública.php">JUD de Tianguis y Vía Pública</a>

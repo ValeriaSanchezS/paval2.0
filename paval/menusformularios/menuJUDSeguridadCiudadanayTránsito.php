@@ -4,6 +4,7 @@ session_start();
 $_SESSION['departamento'] = 'NombreDelDepartamento';
 ?>
 
+
 <!DOCTYPE html>
 <html lang="es">
 <head> 
@@ -12,16 +13,16 @@ $_SESSION['departamento'] = 'NombreDelDepartamento';
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> 
     <link rel="stylesheet" href="../css/menudepartamento.css"> 
     <link rel="stylesheet" href="../css/trubros.css"> 
+    <?php include '../includes/navbarh.php'; ?>
 </head>
 
 <body>
-    <?php include '../includes/navbarh.php'; ?>
     
     <div id="formContent">
 
         <h2 class="centro"> Programas sociales</h2>
         <div class="menu-grid">
-            <a class="menu-item" href="../formulariosSubdirecciónProgramasPrevenciónDelito/form.php">Subdirección de Programas y Proyectos de Prevención del Delito</a>
+            <a class="menu-item" href="../formulariosJUDSeguridadCiudadanayTránsito/form.php">JUD de Seguridad Ciudadana y de Tránsito</a>
         </div>
     </div>
 
