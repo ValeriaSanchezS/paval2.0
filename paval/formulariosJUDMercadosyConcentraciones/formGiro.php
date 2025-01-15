@@ -89,7 +89,7 @@ session_start();
                     <div class="form-group">
                         <label for="caracter">Caracter:</label>
                         <select id="caracter" name="caracter">
-                        <option value="">Seleccione una opcion</option>
+                        <option value=""></option>
                             <option value="mercantiles">Giros Mercantiles</option>
                             <option value="estacionamientos">Estacionamientos</option>
                             <option value="foodtruck">Food Truck</option>
