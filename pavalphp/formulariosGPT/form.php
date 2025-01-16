@@ -371,3 +371,21 @@ session_start();
 </html>
 
 
+
+                    <label for="especificacion-servicio">Especifique:</label>
+                        <select id="especificacion-servicio" name="especificacion-servicio">
+                            <option value="">Selecciona una opción</option>
+                            <option value="servicio1">Inhumaciones</option>
+                            <option value="Construcción y adquisición">Construcción y adquisición</option>
+                            <option value="Refrendos">Refrendos</option>
+                            <option value="Exhumaciones">Exhumaciones</option>
+                            <option value="Re inhumaciones">Re inhumaciones</option>
+                            <option value="Incineraciones">Incineraciones</option>
+                            <option value="Servicios">Servicios</option>
+                            <option value="Encortinados de fosa">Encortinados de fosa</option>
+                            <option value="Bóvedas">Bóvedas</option>
+                            <option value="Cierre de gavetas y nichos">Cierre de gavetas y nichos</option>
+                            <option value="Taludes">Taludes</option>
+                            <option value="Desmonte y monte de monumentos">Desmonte y monte de monumentos</option>
+                            <option value="Ampliaciones">Ampliaciones</option>
+                        </select>
